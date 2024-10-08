@@ -30,7 +30,7 @@ class Config
     // GENERAL SETTINGS
     // ------------------------------------------------------------------------
 
-    const BASE_URL = 'http://localhost';
+    const BASE_URL = 'https://appointments.anzmigrate.com/appt';
     const LANGUAGE = 'english';
     const DEBUG_MODE = false;
 
@@ -38,10 +38,10 @@ class Config
     // DATABASE SETTINGS
     // ------------------------------------------------------------------------
 
-    const DB_HOST = 'mysql';
-    const DB_NAME = 'easyappointments';
-    const DB_USERNAME = 'user';
-    const DB_PASSWORD = 'password';
+    const DB_HOST = 'localhost';
+    const DB_NAME = 'appt';
+    const DB_USERNAME = 'appt';
+    const DB_PASSWORD = 'Barugede23$';
 
     // ------------------------------------------------------------------------
     // GOOGLE CALENDAR SYNC

@@ -483,4 +483,6 @@ $lang['fields'] = 'Fields';
 $lang['invalid_credentials_provided'] = 'Invalid credentials provided, please try again.';
 $lang['calendar_url'] = 'Calendar URL';
 $lang['please_select'] = 'Please Select';
+$lang['vtiger_info'] = 'This integration will automatically assign your provider to respective vtiger users events';
+$lang['vtiger'] = 'Vtiger CRM';
 // End
